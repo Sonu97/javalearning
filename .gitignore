@@ -1,0 +1,6 @@
+
+target/classes/META-INF/maven/com.automation.javalearning/javalearning/pom.xml
+*.prefs
+*.properties
+target/classes/META-INF/MANIFEST.MF
+target/classes/javalearning/MathematicalOperators.class
